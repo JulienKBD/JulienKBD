@@ -2,7 +2,7 @@
 <meta property="og:image" content="https://avatars.githubusercontent.com/u/62753801?v=4">
 
 
-[![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=CC342D&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Julien;I'm+a+%F0%9F%9A%80+french+developer+%F0%9F%9A%80;Actually+I'm+a+first+year+Student+at+EPITECH!)](https://www.youtube.com/watch?v=iik25wqIuFo)
+[![lul](https://readme-typing-svg.herokuapp.com?font=futura&color=CC342D&size=30&center=true&multiline=true&width=1500&height=150&lines=Hi%2C+i'm+Julien;I'm+a+%F0%9F%9A%80+french+developer+%F0%9F%9A%80;Actually+I'm+a+second+year+Student+at+EPITECH!)](https://www.youtube.com/watch?v=iik25wqIuFo)
 
 # Hello, I'm Julien KBIDI
 
